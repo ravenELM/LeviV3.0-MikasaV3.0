@@ -1,0 +1,142 @@
+{
+  "120363420689065379@g.us": {
+    "name": "Naruto and Minato",
+    "tier": 4,
+    "price": 48000,
+    "id": "T4-002",
+    "img": "cards/t4/card4-2.png"
+  },
+  "120363418952448446@g.us": {
+    "name": "Sekhmet",
+    "tier": 3,
+    "price": 30070,
+    "id": "card3-8",
+    "img": "cards/t3/card3-8.png"
+  },
+  "120363416288935081@g.us": {
+    "name": "Katarina",
+    "tier": 4,
+    "price": 45000,
+    "id": "card4-11",
+    "img": "cards/t4/card4-11.png"
+  },
+  "120363402293714243@g.us": {
+    "name": "Akihisa Yoshii",
+    "tier": 1,
+    "price": 10400,
+    "id": "card1-1",
+    "img": "cards/t1/card1-1.png"
+  },
+  "120363401760782540@g.us": {
+    "name": "Nero",
+    "tier": 2,
+    "price": 20040,
+    "id": "card2-3",
+    "img": "cards/t2/card2-3.png"
+  },
+  "120363381449979243@g.us": {
+    "name": "Aoba Suzukaze",
+    "tier": 2,
+    "price": 20050,
+    "id": "card2-1",
+    "img": "cards/t2/card2-1.png"
+  },
+  "120363311350780390@g.us": {
+    "name": "Qu",
+    "tier": 4,
+    "price": 40070,
+    "id": "card4-12",
+    "img": "cards/t4/card4-12.png"
+  },
+  "120363167727516341@g.us": {
+    "name": "Naruto Uzumaki",
+    "tier": 4,
+    "price": 40009,
+    "id": "card4-1",
+    "img": "cards/t4/card4-1.png"
+  },
+  "120363400784829655@g.us": {
+    "name": "Albedo",
+    "tier": 2,
+    "price": 20400,
+    "id": "card2-4",
+    "img": "cards/t2/card2-4.png"
+  },
+  "120363401406940889@g.us": {
+    "name": "Lelouch Lamperouge",
+    "tier": 4,
+    "price": 49500,
+    "id": "T4-014",
+    "img": "cards/t4/card4-14.png"
+  },
+  "120363418870897363@g.us": {
+    "name": "Ichika Photo",
+    "tier": 6,
+    "price": 85000,
+    "id": "T6-001",
+    "img": "cards/t6/card6-1.webm"
+  },
+  "120363385359312556@g.us": {
+    "name": "Spice and Wolf",
+    "tier": "S",
+    "price": 105000,
+    "id": "TS-003",
+    "img": "cards/ts/cardS-3.webm"
+  },
+  "120363399196726068@g.us": {
+    "name": "Reiko Yanagi",
+    "tier": 1,
+    "price": 12800,
+    "id": "T1-005",
+    "img": "cards/t1/card1-5.png"
+  },
+  "120363400996193793@g.us": {
+    "name": "Gonza & Lady Eboshi",
+    "tier": 3,
+    "price": 41000,
+    "id": "T3-004",
+    "img": "cards/t3/card3-4.png"
+  },
+  "120363400210428452@g.us": {
+    "name": "Kongou",
+    "tier": 3,
+    "price": 37000,
+    "id": "T3-003",
+    "img": "cards/t3/card3-3.png"
+  },
+  "120363419922323581@g.us": {
+    "name": "Lilith",
+    "tier": 4,
+    "price": 49000,
+    "id": "card4-13",
+    "img": "cards/t4/card4-13.png"
+  },
+  "120363402462299423@g.us": {
+    "name": "Gonza & Lady Eboshi",
+    "tier": 3,
+    "price": 38000,
+    "id": "card3-4",
+    "img": "cards/t3/card3-4.png"
+  },
+  "120363400565755131@g.us": {
+    "name": "Kakashi Hatake",
+    "tier": 4,
+    "price": 40006,
+    "id": "card4-4",
+    "img": "cards/t4/card4-4.png"
+  },
+  "120363419039911258@g.us": {
+    "name": "Sekhmet",
+    "tier": 5,
+    "price": 50005,
+    "id": "card5-15",
+    "img": "cards/t5/card5-15.png"
+  },
+  "120363316963768760@g.us": {
+    "name": "Gonza & Lady Eboshi",
+    "tier": 3,
+    "price": 38000,
+    "id": "card3-4",
+    "img": "cards/t3/card3-4.png"
+  }
+}

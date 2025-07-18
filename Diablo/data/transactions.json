@@ -1,0 +1,156 @@
+[
+  {
+    "user": "40736676892@s.whatsapp.net",
+    "amount": -1000,
+    "type": "lottery",
+    "note": "",
+    "timestamp": 1751569500236
+  },
+  {
+    "user": "40736676892@s.whatsapp.net",
+    "amount": -1000,
+    "type": "lottery",
+    "note": "",
+    "timestamp": 1751569503789
+  },
+  {
+    "user": "40736676892@s.whatsapp.net",
+    "amount": 100000,
+    "type": "daily",
+    "note": "",
+    "timestamp": 1751569506820
+  },
+  {
+    "user": "40736676892@s.whatsapp.net",
+    "amount": 100000,
+    "type": "daily",
+    "note": "",
+    "timestamp": 1751569568370
+  },
+  {
+    "user": "26879763248@s.whatsapp.net",
+    "amount": 100000,
+    "type": "daily",
+    "note": "",
+    "timestamp": 1751569591476
+  },
+  {
+    "user": "40736676892@s.whatsapp.net",
+    "amount": 5000,
+    "type": "payday",
+    "note": "",
+    "timestamp": 1751570103076
+  },
+  {
+    "user": "40736676892@s.whatsapp.net",
+    "amount": -1000,
+    "type": "lottery",
+    "note": "",
+    "timestamp": 1751570152282
+  },
+  {
+    "user": "26879763248@s.whatsapp.net",
+    "amount": -1000,
+    "type": "lottery",
+    "note": "",
+    "timestamp": 1751570185207
+  },
+  {
+    "user": "26879763248@s.whatsapp.net",
+    "amount": -1000,
+    "type": "lottery",
+    "note": "",
+    "timestamp": 1751570213592
+  },
+  {
+    "user": "26879763248@s.whatsapp.net",
+    "amount": 5000,
+    "type": "payday",
+    "note": "",
+    "timestamp": 1751570232149
+  },
+  {
+    "user": "26879763248@s.whatsapp.net",
+    "amount": -1000,
+    "type": "lottery",
+    "note": "",
+    "timestamp": 1751570705320
+  },
+  {
+    "user": "26879763248@s.whatsapp.net",
+    "amount": -1000,
+    "type": "lottery",
+    "note": "",
+    "timestamp": 1751570763335
+  },
+  {
+    "user": "26879763248@s.whatsapp.net",
+    "amount": -1000,
+    "type": "lottery",
+    "note": "",
+    "timestamp": 1751570992292
+  },
+  {
+    "user": "26879763248@s.whatsapp.net",
+    "amount": -10000,
+    "type": "gamble",
+    "note": "lose (win)",
+    "timestamp": 1751571798784
+  },
+  {
+    "user": "26879763248@s.whatsapp.net",
+    "amount": -10000,
+    "type": "gamble",
+    "note": "lose (win)",
+    "timestamp": 1751571835406
+  },
+  {
+    "user": "26879763248@s.whatsapp.net",
+    "amount": -10000,
+    "type": "gamble",
+    "note": "lose (left)",
+    "timestamp": 1751571875340
+  },
+  {
+    "user": "26879763248@s.whatsapp.net",
+    "amount": -10000,
+    "type": "gamble",
+    "note": "lose (left)",
+    "timestamp": 1751571922338
+  },
+  {
+    "user": "26879763248@s.whatsapp.net",
+    "amount": -10000,
+    "type": "gamble",
+    "note": "lose (left)",
+    "timestamp": 1751571952837
+  },
+  {
+    "user": "40736676892@s.whatsapp.net",
+    "amount": 5000,
+    "type": "payday",
+    "note": "",
+    "timestamp": 1751572516294
+  },
+  {
+    "user": "26879763248@s.whatsapp.net",
+    "amount": 5000,
+    "type": "payday",
+    "note": "",
+    "timestamp": 1751572945092
+  },
+  {
+    "user": "27714432666@s.whatsapp.net",
+    "amount": 5000,
+    "type": "payday",
+    "note": "",
+    "timestamp": 1751614323516
+  },
+  {
+    "user": "919136529523@s.whatsapp.net",
+    "amount": 5000,
+    "type": "payday",
+    "note": "",
+    "timestamp": 1751616759813
+  }
+]

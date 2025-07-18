@@ -1,0 +1,567 @@
+{
+  "40736676892@s.whatsapp.net": {
+    "wallet": 99631205,
+    "lastDaily": 1752421990907,
+    "lastPayday": 1752413944118,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {
+      "1": 3,
+      "2": 2
+    },
+    "name": "Card Trading"
+  },
+  "26879763248@s.whatsapp.net": {
+    "wallet": 486683,
+    "lastDaily": 1752825296792,
+    "lastPayday": 1752497196335,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 2,
+      "lastUsed": 1752830399358
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "919834561567@s.whatsapp.net": {
+    "wallet": 0,
+    "lastDaily": 1752774335190,
+    "lastPayday": 1752774344384,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {},
+    "paydayLastClaim": 1752826444627
+  },
+  "919136529523@s.whatsapp.net": {
+    "wallet": 0,
+    "lastDaily": 1752331189372,
+    "lastPayday": 1752408465716,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "393446094194@s.whatsapp.net": {
+    "wallet": 30000,
+    "lastDaily": 1752824550285,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "27639634818@s.whatsapp.net": {
+    "wallet": 0,
+    "lastDaily": 0,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "917001707682@s.whatsapp.net": {
+    "wallet": 740000,
+    "lastDaily": 1752849895147,
+    "lastPayday": 1752408470880,
+    "lottery": {
+      "count": 2,
+      "lastUsed": 1752827586655
+    },
+    "slot": {
+      "count": 1,
+      "lastUsed": 1752827597750
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "2348126869948@s.whatsapp.net": {
+    "wallet": 0,
+    "lastDaily": 0,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "255614521625@s.whatsapp.net": {
+    "wallet": 373000,
+    "lastDaily": 1752825239756,
+    "lastPayday": 1752563685004,
+    "lottery": {
+      "count": 1,
+      "lastUsed": 1752847319540
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {},
+    "paydayLastClaim": 1752825257706
+  },
+  "2348039886331@s.whatsapp.net": {
+    "wallet": 10000,
+    "lastDaily": 1752509007190,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "40775174922@s.whatsapp.net": {
+    "wallet": 0,
+    "lastDaily": 0,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "923136831938@s.whatsapp.net": {
+    "wallet": 280,
+    "lastDaily": 1752833077459,
+    "lastPayday": 1752408891265,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {},
+    "paydayLastClaim": 1752833080936
+  },
+  "918391990650@s.whatsapp.net": {
+    "wallet": 10000,
+    "lastDaily": 1752331697780,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "923229191556@s.whatsapp.net": {
+    "wallet": 11538,
+    "lastDaily": 1752425549659,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "919074630067@s.whatsapp.net": {
+    "wallet": 185000,
+    "lastDaily": 1752849829711,
+    "lastPayday": 1752514294621,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {},
+    "paydayLastClaim": 1752849832297
+  },
+  "254790509091@s.whatsapp.net": {
+    "wallet": 0,
+    "lastDaily": 1752410117145,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "923434885667@s.whatsapp.net": {
+    "wallet": 44077,
+    "lastDaily": 0,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "6598825434@s.whatsapp.net": {
+    "wallet": 5000,
+    "lastDaily": 1752564016587,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "919366164800@s.whatsapp.net": {
+    "wallet": 17678,
+    "lastDaily": 1752498397047,
+    "lastPayday": 1752410068830,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "917005972085@s.whatsapp.net": {
+    "wallet": 82957,
+    "lastDaily": 0,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "919089244636@s.whatsapp.net": {
+    "wallet": 10000,
+    "lastDaily": 1752561612566,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "923409717285@s.whatsapp.net": {
+    "wallet": 375837,
+    "lastDaily": 1752422114638,
+    "lastPayday": 1752492596527,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "923195305207@s.whatsapp.net": {
+    "wallet": 302370,
+    "lastDaily": 1752505547733,
+    "lastPayday": 1752505550850,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "918088535143@s.whatsapp.net": {
+    "wallet": 105680,
+    "lastDaily": 1752783756334,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 1,
+      "lastUsed": 1752430720509
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "918132082060@s.whatsapp.net": {
+    "wallet": 0,
+    "lastDaily": 0,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "28024745529539@lid": {
+    "wallet": 0,
+    "lastDaily": 0,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "918695084975@s.whatsapp.net": {
+    "wallet": 12667,
+    "lastDaily": 1752419623362,
+    "lastPayday": 1752505757976,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "919836451570@s.whatsapp.net": {
+    "wallet": 300000,
+    "lastDaily": 1752849823056,
+    "lastPayday": 1752563690799,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {},
+    "paydayLastClaim": 1752849828974
+  },
+  "27637999875@s.whatsapp.net": {
+    "wallet": 25000,
+    "lastDaily": 1752520732361,
+    "lastPayday": 1752508682503,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "2348148119505@s.whatsapp.net": {
+    "wallet": 0,
+    "lastDaily": 0,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "2347044059420@s.whatsapp.net": {
+    "wallet": 15055,
+    "lastDaily": 1752833429325,
+    "lastPayday": 1752492617851,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 2,
+      "lastUsed": 1752493717292
+    },
+    "inventory": {},
+    "fridge": {},
+    "paydayLastClaim": 1752833448598
+  },
+  "27674268647@s.whatsapp.net": {
+    "wallet": 10000,
+    "lastDaily": 1752842907833,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "2349010859882@s.whatsapp.net": {
+    "wallet": 10000,
+    "lastDaily": 1752844652233,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "919088855318@s.whatsapp.net": {
+    "wallet": 690000,
+    "lastDaily": 0,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "919863573769@s.whatsapp.net": {
+    "wallet": 0,
+    "lastDaily": 0,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "918812998406@s.whatsapp.net": {
+    "wallet": 0,
+    "lastDaily": 0,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  },
+  "6582631333@s.whatsapp.net": {
+    "wallet": 0,
+    "lastDaily": 0,
+    "lastPayday": 0,
+    "lottery": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "slot": {
+      "count": 0,
+      "lastUsed": 0
+    },
+    "inventory": {},
+    "fridge": {}
+  }
+}

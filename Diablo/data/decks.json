@@ -1,0 +1,20 @@
+{
+  "2348039886331@s.whatsapp.net": [
+    {
+      "name": "Qu",
+      "tier": 4,
+      "price": 47000,
+      "id": "T4-012",
+      "img": "cards/t4/card4-12.png"
+    }
+  ],
+  "40736676892@s.whatsapp.net": [
+    {
+      "name": "Goku",
+      "tier": 5,
+      "price": 65000,
+      "id": "T5-002",
+      "img": "cards/t5/card5-2.png"
+    }
+  ]
+}
