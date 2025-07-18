@@ -13,6 +13,22 @@
   <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge"></a>
 </p>
 
+<!-- BUTTON LINKS -->
+<p align="center">
+  <a href="https://wa.me/40736676893" target="_blank">
+    <img src="https://img.shields.io/badge/📞_Contact-Owner-green?style=for-the-badge&logo=whatsapp" alt="Contact Owner" />
+  </a>
+  <a href="https://tinyurl.com/bdeztsjt" target="_blank">
+    <img src="https://img.shields.io/badge/👥_Raven_Bots-blue?style=for-the-badge" alt="Raven Bots Group" />
+  </a>
+  <a href="https://tinyurl.com/2hffahu2" target="_blank">
+    <img src="https://img.shields.io/badge/🎰_Raven_Bots_Casino-yellow?style=for-the-badge" alt="Raven Bots Casino" />
+  </a>
+  <a href="https://tinyurl.com/5cfrapju" target="_blank">
+    <img src="https://img.shields.io/badge/🫧_Raven_Support-orange?style=for-the-badge" alt="Raven Support Group" />
+  </a>
+</p>
+
 ---
 
 ## 📦 Features by Category
@@ -64,4 +80,3 @@ Simulated stress tools: crash bot, fake location, GC lagger, etc.
 > 🚀 Built with passion by **𝕽𝖆𝖛𝖊𝖓** | Fast, scalable & powerful for modern WhatsApp communities.
 
 ---
-
